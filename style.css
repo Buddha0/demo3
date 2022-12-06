@@ -1,0 +1,23 @@
+
+
+a{
+    font-size:50px;
+}
+
+#home{
+    background-color: grey;
+    width:80%;
+    height:90vh;
+}
+
+#about{
+    background-color: bisque;
+    width:80%;
+    height:90vh;
+}
+
+#contact{
+    width:80%;
+    height:90vh;
+    background-color: blue;
+}
